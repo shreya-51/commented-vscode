@@ -17,10 +17,10 @@ https://github.com/shreya-51/commented-vscode/assets/48033781/d64a04d7-89c1-4760
 ## Setup:
 1. Navigate to source code: <br> <br>
    For MacOS:
-   > ~/.vscode/extensions/shreyaw.commented-0.0.1 
+   > ~/.vscode/extensions/shreyaw.commented-0.0.2 
    
    For Windows:
-   > C:\Users\<YourUsername>\.vscode\extensions\shreyaw.commented-0.0.1
+   > C:\Users\<YourUsername>\.vscode\extensions\shreyaw.commented-0.0.2
 3. Update .env variables using script.py:
    > python3 script.py "PYTHON_PATH=<your python path>" "OPENAI_API_KEY=<your openai api key>"
 4. Refresh VSCode
